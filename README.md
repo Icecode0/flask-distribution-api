@@ -41,6 +41,6 @@ Originally designed for a distribution company, this API connects directly to a 
 
 ## Notes
 
--This project has been scrubbed of sensitive information.
--Original deployment included vendor API integration for order posting and validation.
--Can be extended for any distribution or inventory-based business.
+- This project has been scrubbed of sensitive information.
+- Original deployment included vendor API integration for order posting and validation.
+- Can be extended for any distribution or inventory-based business.
